@@ -1,0 +1,100 @@
+*{
+    padding:0px;
+    margin:0px;
+   }
+ header{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/53/73/5957987b7ca0d8a.jpg");
+    background-repeat: round;
+	width: 1000px;
+	height: 120px;
+	margin: auto;
+}
+header  img#logo {
+    float: left;
+    height: 120px;
+    padding-left: 10px;
+}
+header > h1 {
+	margin-left: 30%;
+    padding: 40px 0px 0px
+}
+header > h4#hot-line {
+	float: right;
+    padding-right: 15px;
+    color: #00BCD4
+}
+nav{
+	width: 1000px;
+	height: 30px; 
+	background: lightskyblue;
+	margin: auto;
+}
+section{
+	width: 1000px;
+	height: 1850px;
+    background: #03a9f42e;
+	margin: auto;
+}
+#b{
+	width: 1000px;
+	height: 400px;
+	float:left;
+}
+footer{
+	width: 1000px;
+	height: 70px;
+	background: lightskyblue;
+	margin: auto;
+}
+#menu ul li{
+	list-style-type: none;
+	float: left;
+	width: 155px;
+	text-align: center;
+	line-height: 30px;
+} 
+#b h2 {
+    text-align: center;
+}
+#b ul {
+    padding: 20px ;
+}
+#b ul li{
+	list-style-type: none;
+} 
+#menu ul li a{
+	text-decoration: none;
+}
+#menu img{
+	float: left;
+    height: 25px;
+    padding-left: 20;
+}
+section img {
+	width: 958px;
+	height: auto;
+	height: 480px;
+	margin right:auto;
+	padding:20;
+}
+#b{
+	list-style-type: none;
+}
+footer > h4#Ten {
+	float: left;
+    padding-right: 20px;
+	color:black;
+	margin: auto;
+}
+footer > h4#DiaChi {
+	float: left;
+    padding-right: 20px;
+	color:black;
+	margin: auto;
+}
+footer > h4#DT {
+	float: left;
+    padding-right: 20px;
+	color:black;
+	margin: auto;
+}

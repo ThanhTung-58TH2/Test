@@ -1,0 +1,10 @@
+*{
+    padding:0px;
+    margin:0px;
+   }
+ header{
+	width: 1300px;
+	height: 8000px;
+    margin: auto;
+    border: 1px solid black;
+}
